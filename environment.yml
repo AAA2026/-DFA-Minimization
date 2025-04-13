@@ -3,4 +3,3 @@ dependencies:
   - python=3.10
   - pip
   - pprintpp
-  - any other packages you use
