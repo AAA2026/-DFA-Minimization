@@ -2,4 +2,5 @@ name: base
 dependencies:
   - python=3.10
   - pip
-  - pprintpp
+  - pip:
+      - pprintpp
