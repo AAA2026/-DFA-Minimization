@@ -12,7 +12,7 @@ The minimization process implemented in this tool follows a standard multi-step 
 
 ## Project Structure
 
-The project consists of the following key files:
+### The project consists of the following key files:
 
 *   `main.py`: The main script containing the DFA minimization logic and the command-line interface.
 *   `dfa.py`: (User-provided) This file should contain the definition of the input DFA in the specified Python tuple format. An example is provided in `test_dfa.py`.
